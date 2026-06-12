@@ -1,0 +1,9 @@
+*.exe
+*.bin
+agent/build/
+agent/build/**
+.ds_store
+Untitled.*
+*~
+*.swp
+*.swo

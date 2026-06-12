@@ -1,0 +1,4 @@
+import mythic_container
+import morpheus
+import mythic.agent_functions.commands
+mythic_container.mythic_service.start_and_run_forever()

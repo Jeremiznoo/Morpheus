@@ -1,0 +1,9 @@
+{
+  "exclude_from_global_install": false,
+  "exclude_from_global_uninstall": false,
+  "exclude_from_local_install": false,
+  "payload_type": ["morpheus"],
+  "c2_profiles": ["http"],
+  "documentation_payload": "documentation-payload",
+  "documentation_wrapper": "documentation-wrapper"
+}
